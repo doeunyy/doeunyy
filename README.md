@@ -13,17 +13,18 @@ This interdisciplinary program combines humanities, engineering, and design to d
 My ultimate goal is to leverage artificial intelligence and data science to create models and services that make a meaningful impact on people’s lives. <br>
 Through the fusion of my technical expertise and creative insights, I aspire to develop solutions that truly help others.
 
-<br><br>
+<br><br><br>
 <!---
 ## 🤝 Contact with me
 <a href="mailto:doeun990802@gmail.com"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px" /> </a>
 <a href= "https://www.linkedin.com/in/doeun-kim/"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout |LinkedIn" width="35px"/> </a>
 --->
 
-<br>
+
 <!---
 [![Doeun’s github stats](https://github-readme-stats.vercel.app/api?username=doeunyy)](https://github.com/doeunyy)
 --->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doeunyy&layout=compact)](https://github.com/doeunyy)
 
 

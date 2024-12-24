@@ -20,14 +20,14 @@ Through the fusion of my technical expertise and creative insights, I aspire to 
 <a href= "https://www.linkedin.com/in/doeun-kim/"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout |LinkedIn" width="35px"/> </a>
 --->
 
-<br><br>
+<br>
 <!---
 [![Doeun’s github stats](https://github-readme-stats.vercel.app/api?username=doeunyy)](https://github.com/doeunyy)
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doeunyy&layout=compact)](https://github.com/doeunyy)
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 ## 👩‍💻 Technical skills 

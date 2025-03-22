@@ -1,8 +1,8 @@
 <!--- ![doeun-github-page](https://github.com/user-attachments/assets/5bdb88ea-89a6-425a-ad90-7358c8ee5985) --->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Doeun's%20Github&fontSize=60)
 
-Hi! I’m an undergraduate student majoring in Computer Science and Engineering at Ewha Womans University. <br>
-I’m currently participating as a undergraduate research intern at the [Ewha AI Computing Platform Laboratory (ACPL)](https://acpl.ewha.ac.kr/).
+Hi! I recently graduated with a Bachelor’s degree in Computer Science and Engineering from Ewha Womans University.
+During my undergraduate years, I participated as a research intern at the [Ewha AI Computing Platform Laboratory (ACPL)](https://acpl.ewha.ac.kr/), where I deepened my understanding of artificial intelligence through hands-on research.
 
 I have a deep interest in AI, diffusion models, generative models, data science, and model optimization. <br>
 Beyond these areas, I’m also fascinated by fields like Explainable AI (XAI) and computer vision, as I enjoy exploring various domains in Artificial Intelligence.

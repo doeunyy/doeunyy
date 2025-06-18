@@ -1,17 +1,18 @@
 <!--- ![doeun-github-page](https://github.com/user-attachments/assets/5bdb88ea-89a6-425a-ad90-7358c8ee5985) --->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Doeun's%20Github&fontSize=60)
 
-Hi! I recently graduated with a Bachelor’s degree in Computer Science and Engineering from Ewha Womans University.
-During my undergraduate years, I participated as a research intern at the [Ewha AI Computing Platform Laboratory (ACPL)](https://acpl.ewha.ac.kr/), where I deepened my understanding of artificial intelligence through hands-on research.
+### Hi there! I'm Doeun 👋
 
-I have a deep interest in AI, diffusion models, generative models, data science, and model optimization. <br>
-Beyond these areas, I’m also fascinated by fields like Explainable AI (XAI) and computer vision, as I enjoy exploring various domains in Artificial Intelligence.
+I'm currently pursuing my M.S. in Computer Science at the University of Southern California (USC), where I focus on **Artificial Intelligence, Computer Vision**, and **Generative Models**—especially diffusion-based approaches. I'm also deeply interested in **Model Optimization**, and **Explainable AI (XAI)**.
 
-In addition to my primary major, I’m pursuing a double major in Content Convergence at Ewha Womans University. <br>
-This interdisciplinary program combines humanities, engineering, and design to deliver practical, industry-oriented education in areas such as content creation, storytelling, and software development.
+I received my Bachelor's degree in Computer Science and Engineering from Ewha Womans University in February 2025, where I also pursued a second major in Content Convergence—an interdisciplinary program that blends humanities, engineering, and design to explore storytelling, content creation, and software development.
 
-My ultimate goal is to leverage artificial intelligence and data science to create models and services that make a meaningful impact on people’s lives. <br>
-Through the fusion of my technical expertise and creative insights, I aspire to develop solutions that truly help others.
+During my undergrad, I worked as a software engineering intern at **RainbirdGEO**, and conducted hands-on research as an undergraduate research assistant at the **AI Computing Platform Laboratory (ACPL)**. These experiences helped me deepen my understanding of AI and cultivate a research-driven mindset.
+
+My ultimate goal is to harness the power of artificial intelligence and data science to build meaningful tools and services that improve people's lives. By blending technical expertise with creative thinking, I strive to develop human-centered solutions that make a real impact.
+
+Feel free to explore my projects or reach out to connect!
+
 
 <br><br><br>
 <!---

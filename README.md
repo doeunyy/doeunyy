@@ -15,13 +15,12 @@ My ultimate goal is to harness the power of artificial intelligence and data sci
 Feel free to explore my projects or reach out to connect!
 
 
-<br><br><br>
-<div align=center>
-<!---
-## 🤝 Contact with me
+<br><br>
+
+### 🤝 Contact with me
 <a href="mailto:doeun990802@gmail.com"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px" /> </a>
 <a href= "https://www.linkedin.com/in/doeun-kim/"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout |LinkedIn" width="35px"/> </a>
---->
+
 
 
 <!---
@@ -63,7 +62,7 @@ Feel free to explore my projects or reach out to connect!
 #### Collaboration
 <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
 --->
-<br><br><br><br>
+<br><br><br>
 ![](https://komarev.com/ghpvc/?username=doeunyy&color=blue)
 
 <!--- 

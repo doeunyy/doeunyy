@@ -28,12 +28,11 @@ Feel free to explore my projects or reach out to connect!
 [![Doeun’s github stats](https://github-readme-stats.vercel.app/api?username=doeunyy)](https://github.com/doeunyy)
 --->
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doeunyy&layout=compact)](https://github.com/doeunyy)
+--->
 
-
-<br><br><br>
-
-
+<!---
 ## 👩‍💻 Technical skills 
 #### Programming Language
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -55,6 +54,7 @@ Feel free to explore my projects or reach out to connect!
 
 #### Database
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/mariadb%20foundation-%231F305F.svg?&style=for-the-badge&logo=mariadb%20foundation&logoColor=white" />
+--->
 
 <!---
 #### Planning

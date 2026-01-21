@@ -18,7 +18,7 @@ Feel free to explore my projects or reach out to connect!
 <br><br>
 
 ### 🤝 Contact with me
-<a href="mailto:doeun990802@gmail.com"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px" /> </a>
+<a href="mailto:doeunkim.cs@gmail.com"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px" /> </a>
 <a href= "https://www.linkedin.com/in/doeun-kim/"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout |LinkedIn" width="35px"/> </a>
 
 

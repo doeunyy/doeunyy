@@ -1,25 +1,21 @@
 <!--- ![doeun-github-page](https://github.com/user-attachments/assets/5bdb88ea-89a6-425a-ad90-7358c8ee5985) --->
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20Doeun's%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=280&section=header&text=Welcome%20to%20Doeun's%20GitHub&fontSize=56)
 
 ### Hi there! I'm Doeun 👋
 
-I'm currently pursuing my M.S. in Computer Science at the University of Southern California (USC), where I focus on **Artificial Intelligence, Computer Vision**, and **Generative Models**—especially diffusion-based approaches. I'm also deeply interested in **Model Optimization**, and **Explainable AI (XAI)**.
+M.S. in Computer Science at **University of Southern California (USC)**.  
+Interested in **Machine Learning and AI**, with a focus on **Generative Models (Diffusion)**, **Model Optimization**, **Explainable AI (XAI)**, and **Machine Learning for Healthcare and Biomedicine**.
 
-I received my Bachelor's degree in Computer Science and Engineering from Ewha Womans University in February 2025, where I also pursued a second major in Content Convergence—an interdisciplinary program that blends humanities, engineering, and design to explore storytelling, content creation, and software development.
+Currently a **Graduate Researcher** at the **Laboratory for Machine Learning, Health and Biomedicine (USC)**,  
+where I develop research infrastructure for **AI4Drug** and contribute to **peptide immunogenicity modeling** by combining **HLA presentation rank analysis** with **peptide–human-proteome matching** (exact and single-mismatch).
 
-During my undergrad, I worked as a software engineering intern at **RainbirdGEO**, and conducted hands-on research as an undergraduate research assistant at the **AI Computing Platform Laboratory (ACPL)**. These experiences helped me deepen my understanding of AI and cultivate a research-driven mindset.
+Previously:
+- Software Engineering Intern @ **RainbirdGEO**
+- Undergraduate Research Assistant @ **AI Computing Platform Lab (ACPL)**
+- B.S. in Computer Science and Engineering, **Ewha Womans University**
 
-My ultimate goal is to harness the power of artificial intelligence and data science to build meaningful tools and services that improve people's lives. By blending technical expertise with creative thinking, I strive to develop human-centered solutions that make a real impact.
+📌 Selected projects are pinned below.
 
-Feel free to explore my projects or reach out to connect!
-
-
-<br><br>
-
-### 🤝 Contact with me
-<a href="mailto:doeunkim.cs@gmail.com"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px" /> </a>
-<a href= "https://www.linkedin.com/in/doeun-kim/"> <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout |LinkedIn" width="35px"/> </a>
 
 
 
@@ -62,8 +58,8 @@ Feel free to explore my projects or reach out to connect!
 #### Collaboration
 <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
 --->
-<br><br><br>
-![](https://komarev.com/ghpvc/?username=doeunyy&color=blue)
+<!-- <br><br><br>
+![](https://komarev.com/ghpvc/?username=doeunyy&color=blue) -->
 
 <!--- 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoeunyy%2Fhit-counter&count_bg=%2375DFD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>

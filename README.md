@@ -10,9 +10,10 @@ Currently a **Graduate Researcher** at the **Laboratory for Machine Learning, He
 where I develop research infrastructure for **AI4Drug** and contribute to **peptide immunogenicity modeling** by combining **HLA presentation rank analysis** with **peptide–human-proteome matching** (exact and single-mismatch).
 
 Previously:
-- Software Engineering Intern @ **RainbirdGEO**
-- Undergraduate Research Assistant @ **AI Computing Platform Lab (ACPL)**
-- B.S. in Computer Science and Engineering, **Ewha Womans University**
+- Software Engineer Intern @ **RainbirdGEO**
+- Undergraduate Researcher @ **AI Computing Platform Lab (ACPL)**
+- Double Degree: B.S.E. in Computer Science and Engineering & B.S. in Content Convergence, **Ewha Womans University**
+
 
 📌 Selected projects are pinned below.
 

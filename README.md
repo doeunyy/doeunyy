@@ -4,8 +4,7 @@
 ### Hi there! I'm Doeun 👋
 
 M.S. in Computer Science at **University of Southern California (USC)**.  
-Interested in **Machine Learning and AI**, with a focus on **Generative Models (Diffusion)**, **Model Optimization**, **Explainable AI (XAI)**, and **Machine Learning for Healthcare and Biomedicine**.
-
+Interested in **Machine Learning and AI**, with a focus on **AI for Healthcare and Biomedicine**, **Explainable AI**, **Generative Models (Diffusion)**, and **Multimodal Learning**.
 Currently a **Graduate Researcher** at the **Laboratory for Machine Learning, Health and Biomedicine (USC)**,  
 where I develop research infrastructure for **AI4Drug** and contribute to **peptide immunogenicity modeling** by combining **HLA presentation rank analysis** with **peptide–human-proteome matching** (exact and single-mismatch).
 

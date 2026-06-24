@@ -3,21 +3,17 @@
 
 ### Hi there! I'm Doeun 👋
 
-M.S. in Computer Science at **University of Southern California (USC)**.  
-Interested in **Machine Learning and AI**, with a focus on **AI for Healthcare and Biomedicine**, **Explainable AI**, **Generative Models (Diffusion)**, and **Multimodal Learning**.
-Currently a **Graduate Researcher** at the **Laboratory for Machine Learning, Health and Biomedicine (USC)**,  
-where I develop research infrastructure for **AI4Drug** and contribute to **peptide immunogenicity modeling** by combining **HLA presentation rank analysis** with **peptide–human-proteome matching** (exact and single-mismatch).
+I'm an M.S. student in Computer Science at the **University of Southern California (USC)**, interested in **machine learning for healthcare and biomedicine**, **explainable AI**, **generative models**, and **multimodal learning**.
+
+Currently, I'm a **Graduate Research Assistant** at the **Laboratory for Machine Learning, Health and Biomedicine at USC**, where I work on **AI-driven deimmunization**, **peptide immunogenicity modeling**, and research tools for **HLA-specific peptide scanning** and **population-aware immunogenicity analysis**.
 
 Previously:
-- Software Engineer Intern @ **RainbirdGEO**
-- Undergraduate Researcher @ **AI Computing Platform Lab (ACPL)**
-- Double Degree: B.S.E. in Computer Science and Engineering & B.S. in Content Convergence, **Ewha Womans University**
 
+* Software Engineer Intern @ **RainbirdGEO**
+* Undergraduate Researcher @ **AI Computing Platform Lab (ACPL)**
+* Double Degree: B.S.E. in Computer Science and Engineering & B.S. in Content Convergence, **Ewha Womans University**
 
 📌 Selected projects are pinned below.
-
-
-
 
 <!---
 [![Doeun’s github stats](https://github-readme-stats.vercel.app/api?username=doeunyy)](https://github.com/doeunyy)
